@@ -11,6 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         ZoomImageView zoomIv = findViewById(R.id.zoomIv);
-        zoomIv.setImageResource(R.drawable.driver_license_example);
+        zoomIv.setImageResource(R.drawable.image_example);
     }
 }
